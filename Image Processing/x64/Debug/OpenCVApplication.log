@@ -1,0 +1,36 @@
+﻿  OpenCVApplication.cpp
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(715): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(716): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(717): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(759): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(760): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(761): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(836): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(1010): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(1174): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(1175): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(1609): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(1609): note: consider using '%zd' in the format string
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(1616): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(1616): note: consider using '%zd' in the format string
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2074): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2096): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2150): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2157): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2209): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2262): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2481): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2491): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2505): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2515): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2641): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2647): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2666): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2671): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(2676): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dbutu\desktop\poli stuff\image processing\take 2\opencvapplication-vs2019_ocv451_basic\opencvapplication.cpp(995): warning C4172: returning address of local variable or temporary: pdf
+  OpenCVApplication.vcxproj -> C:\Users\dbutu\Desktop\Poli Stuff\Image Processing\take 2\OpenCVApplication-VS2019_OCV451_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_videoio_ffmpeg451_64d.dll
+  OpenCV\dll\Debug\opencv_videoio_msmf451_64d.dll
+  OpenCV\dll\Debug\opencv_world451d.dll
+          3 file(s) copied.
